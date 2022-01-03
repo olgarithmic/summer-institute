@@ -28,4 +28,4 @@ In addition to the Institute’s program, participants will be invited to partic
 
 We invite applications from PhD students, postdoctoral researchers and early career faculty within 5 years of PhD conferral. We welcome applicants from all backgrounds and fields of study, especially applicants from groups currently underrepresented in computational social science. About 25 participants will be invited, and participants are expected to fully attend and participate in the entire two-week program.
 
-[Application materials](https://compsocialscience.github.io/summer-institute/2022/sydney/apply)should be received by **30 March, 2022**.
+[Application materials](https://compsocialscience.github.io/summer-institute/2022/sydney/apply) should be received by **30 March, 2022**.
